@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "npm install && npm run start && exit 0",
+    "test": "npm install && npm run build && exit 0",
     "start": "node server.js"
   },
   "author": "",
