@@ -36,8 +36,8 @@ app.engine('handlebars', handlebars({
 app.get('/', function (req, res) {
     res.render('main', {
         layout: 'index',
-        title: "Tets"
     })
 })
 
+// launch server
 launch;
