@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td><img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/xReapex/twitter-bot"></td>
-    <td>https://img.shields.io/github/commit-activity/w/xReapex/twitter-bot</td>
+    <td><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/xReapex/twitter-bot"></td>
   </tr>
 </table>
 
