@@ -12,6 +12,7 @@
 
 📌This app is made for interact with your Twitter bot from local web server :
 
+- Configure the port that will be used by the App.
 - Configure bot login ids.
 
 ![image](https://user-images.githubusercontent.com/56170171/110240572-ec156800-7f4c-11eb-94c3-1b6f1654a419.png)
