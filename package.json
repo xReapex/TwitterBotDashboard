@@ -5,16 +5,18 @@
   "main": "server.js",
   "scripts": {
     "test": "npm install",
-    "start": "nodemon server.js",
-    "build": "nexe --build server.js"
+    "start": "nodemon server.js -q --ext js,mjs,json --watch .env",
+    "build": "nexe server.js"
   },
   "author": "Thomas R",
   "license": "ISC",
   "dependencies": {
+    "clear": "^0.1.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-handlebars": "^5.2.1",
     "nexe": "^4.0.0-beta.18",
+    "node-cmd": "^4.0.0",
     "nodemon": "^2.0.7",
     "open": "^8.0.2",
     "twitter-v2": "^1.0.7"

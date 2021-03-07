@@ -5,7 +5,7 @@ async function launch() {
 
     // run server 
     app.listen(process.env.EXPRESS_PORT, function () {
-        console.log(`Serveur running on port ${process.env.EXPRESS_PORT}`);
+        console.log(`Server running on port ${process.env.EXPRESS_PORT}`);
     })
 }
 

@@ -1,0 +1,18 @@
+body {
+    background-color: #3A0CA3;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.dashboard-background {
+    background-color: white;
+    width: 850px;
+    height: 400px;
+}
+
+.dashboard-header{
+    background-color: #3A0CA3;
+    width: 12%;
+    height: 5%;
+    text-align: center;
+    margin: -370px 0 0 0;
+}

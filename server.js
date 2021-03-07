@@ -39,5 +39,8 @@ app.get('/', function (req, res) {
     })
 })
 
+var clear = require('clear');
+clear();
+
 // launch server
 launch;
