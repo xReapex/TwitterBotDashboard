@@ -1,50 +1,50 @@
 // env
-require('dotenv').config()
+require("dotenv").config();
 
 // colors 
-var colors = require('colors');
+var colors = require("colors");
 
 // clear
-var clear = require('clear');
+var clear = require("clear");
 
 // open
-const open = require('open');
+const open = require("open");
 
 // import path
 const path = require("path");
 
 // express
-const express = require('express')
-const app = express()
+const express = require("express");
+const app = express();
 
 module.exports = {
     app,
     open,
     colors
-}
-const { launch } = require('./public/js/utils') // utils
+};
+const launch = require("./public/js/utils"); // utils
 
 // handlebars
-const handlebars = require('express-handlebars')
+const handlebars = require("express-handlebars");
 
 // set engine
-app.set('view engine', 'handlebars')
+app.set("view engine", "handlebars");
 
 // static
 app.use(express.static(path.join(__dirname, "public")));
 
 // layouts 
-app.engine('handlebars', handlebars({
-    layoutsDir: __dirname + '/views/layouts',
-    partialsDir: __dirname + '/views/partials'
-}))
+app.engine("handlebars", handlebars({
+    layoutsDir: __dirname + "/views/layouts",
+    partialsDir: __dirname + "/views/partials"
+}));
 
 // route /
-app.get('/', function (req, res) {
-    res.render('main', {
-        layout: 'index',
-    })
-})
+app.get("/", function (req, res) {
+    res.render("main", {
+        layout: "index",
+    });
+});
 
 // clear console
 clear();
