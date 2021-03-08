@@ -38,6 +38,8 @@
 
 <h2 name="installation">Installation :</h2>
 
+- Clone the code : ``npm clone https://github.com/xReapex/twitter-bot-dashboard.git``
+
 - :fire: This application requires Node.js modules and dependencies to run. If Node.js modules are not installed (``node_modules`` directory doesn't exists), run ``npm install``. These modules must be installed !
 
 - :rocket: Run the application with ``npm run start``.
