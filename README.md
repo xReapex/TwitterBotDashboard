@@ -5,7 +5,7 @@
 - <a href="#overview">Overview</a> (Quick presentation)
 - <a href="#installation">Installation</a> (How to install)
 
-<h2 name="overview">Overview</h2>
+<h2 name="overview">Overview :</h2>
 <table>
   <tr>  
     <th>🛠App version</th>
@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-📌This app is made for interact with your Twitter account (personnal or bot) from local web server :
+<h3>📌This app is made for interact with your Twitter account (personnal or bot) from local web server :</h3>
 
 <h4>:wrench: Configuration :</h4>
 
