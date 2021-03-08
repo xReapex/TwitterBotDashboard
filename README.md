@@ -2,9 +2,11 @@
 
 <h2>Summary :</h2>
 
-- <a href="#test">Test</a>
+- <a href="#overview">Overview</a> (Quick presentation)
+- <a href="#installation">Installation</a> (How to install)
 
-<table name="test">
+<h2 name="overview">Overview</h2>
+<table>
   <tr>  
     <th>🛠App version</th>
     <th>🔮Activity</th>
@@ -22,5 +24,5 @@
 
 ![image](https://user-images.githubusercontent.com/56170171/110240687-7067eb00-7f4d-11eb-8dba-46df29cb2bcb.png)
 
-<h1>Installation :</h1>
+<h2 name="#installation">Installation :</h2>
 
