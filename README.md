@@ -4,7 +4,7 @@
 
 - <a href="#overview">Overview</a> (Quick presentation)
 - <a href="#requirements">Requirements</a> (Application Requirements)
-- <a href="#installation">Installation</a> (How to install)
+- <a href="#installation">Installation</a> (How to install & run)
 
 <h2 name="overview">Overview :</h2>
 <table>
