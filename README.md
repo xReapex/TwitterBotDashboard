@@ -34,8 +34,11 @@
 
 <h2 name="#requirements">Requirements :</h2>
 
-- Node.js (install)[https://nodejs.org/en/]
+- Node.js ([Install](https://nodejs.org/en/)) :construction: App only tested on version **v12.10.0** ! 
+- NPM ([Install](https://www.npmjs.com/get-npm)) :construction: App only tested on version **6.14.11** !
 
 <h2 name="#installation">Installation :</h2>
 
-This application requires node modules and dependencies to run. 
+- This application requires Node.js modules and dependencies to run. If Node.js modules are not installed (``node_modules`` directory doesn't exists), run ``npm install``. These modules must be installed !
+
+- Run the application with ``npm run start``.
