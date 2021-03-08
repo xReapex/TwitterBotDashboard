@@ -32,12 +32,12 @@
 
 ![image](https://user-images.githubusercontent.com/56170171/110240687-7067eb00-7f4d-11eb-8dba-46df29cb2bcb.png)
 
-<h2 name="#requirements">Requirements :</h2>
+<h2 name="requirements">Requirements :</h2>
 
 - Node.js ([Install](https://nodejs.org/en/)) :construction: App only tested on version **v12.10.0** ! 
 - NPM ([Install](https://www.npmjs.com/get-npm)) :construction: App only tested on version **v6.14.11** !
 
-<h2 name="#installation">Installation :</h2>
+<h2 name="installation">Installation :</h2>
 
 - This application requires Node.js modules and dependencies to run. If Node.js modules are not installed (``node_modules`` directory doesn't exists), run ``npm install``. These modules must be installed !
 
