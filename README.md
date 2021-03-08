@@ -10,7 +10,7 @@
 <table>
   <tr>  
     <th>🛠App version</th>
-    <th>🔮Code quality</th>
+    <th>:zap:Code quality</th>
   </tr>
   <tr>
     <td><img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/xReapex/twitter-bot-dashboard"></td>
