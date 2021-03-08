@@ -1,6 +1,12 @@
 // env
 require('dotenv').config()
 
+// colors 
+var colors = require('colors');
+
+// clear
+var clear = require('clear');
+
 // open
 const open = require('open');
 
@@ -14,6 +20,7 @@ const app = express()
 module.exports = {
     app,
     open,
+    colors
 }
 const { launch } = require('./public/js/utils') // utils
 
@@ -39,7 +46,7 @@ app.get('/', function (req, res) {
     })
 })
 
-var clear = require('clear');
+// clear console
 clear();
 
 // launch server
