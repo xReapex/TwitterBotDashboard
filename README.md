@@ -3,6 +3,7 @@
 <h2>Summary :</h2>
 
 - <a href="#overview">Overview</a> (Quick presentation)
+- <a href="requirements">Requierements</a> (Application Requirements)
 - <a href="#installation">Installation</a> (How to install)
 
 <h2 name="overview">Overview :</h2>
@@ -31,5 +32,10 @@
 
 ![image](https://user-images.githubusercontent.com/56170171/110240687-7067eb00-7f4d-11eb-8dba-46df29cb2bcb.png)
 
+<h2 name="#requirements">Requirements :</h2>
+
+- Node.js (install)[https://nodejs.org/en/]
+
 <h2 name="#installation">Installation :</h2>
 
+This application requires node modules and dependencies to run. 
