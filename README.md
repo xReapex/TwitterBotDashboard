@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-📌This app is made for interact with your Twitter bot from local web server :
+📌This app is made for interact with your Twitter account (personnal or bot) from local web server :
 
 - Configure the port that will be used by the App. (Auto reload in execution)
 - Configure bot login ids.
