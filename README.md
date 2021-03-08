@@ -40,10 +40,14 @@
 - Node.js ([Install](https://nodejs.org/en/)) :construction: App only tested on version **v12.10.0** ! 
 - NPM ([Install](https://www.npmjs.com/get-npm)) :construction: App only tested on version **v6.14.11** !
 
+- A Twitter account
+
 <h2 name="installation">Installation :</h2>
 
 - :alien: Clone the code : ``npm clone https://github.com/xReapex/twitter-bot-dashboard.git``
 
 - :fire: This application requires Node.js modules and dependencies to run. If Node.js modules are not installed (``node_modules`` directory doesn't exists), run ``npm install``. These modules must be installed !
+
+- Configure ``.env`` file. (You can also change the server port or the connection variables when the application is launched, the server refreshes itself !)
 
 - :rocket: Run the application with ``npm run start`` or by launch ``start.bat``.
