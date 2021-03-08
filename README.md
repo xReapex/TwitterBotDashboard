@@ -3,7 +3,7 @@
 <h2>Summary :</h2>
 
 - <a href="#overview">Overview</a> (Quick presentation)
-- <a href="#requirements">Requierements</a> (Application Requirements)
+- <a href="#requirements">Requirements</a> (Application Requirements)
 - <a href="#installation">Installation</a> (How to install)
 
 <h2 name="overview">Overview :</h2>
