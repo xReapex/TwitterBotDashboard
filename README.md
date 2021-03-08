@@ -10,11 +10,11 @@
 <table>
   <tr>  
     <th>🛠App version</th>
-    <th>🔮Activity</th>
+    <th>🔮Code quality</th>
   </tr>
   <tr>
     <td><img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/xReapex/twitter-bot-dashboard"></td>
-    <td><img alt="npm" src="https://img.shields.io/npm/v/express"></td>
+    <td><a href="https://www.codacy.com/gh/xReapex/twitter-bot-dashboard/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=xReapex/twitter-bot-dashboard&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/c6522564cbfa4aeda55cbbfc1d359929"/></a></td>
   </tr>
 </table>
 
