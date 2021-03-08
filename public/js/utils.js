@@ -5,8 +5,9 @@ async function launch() {
 
     // run server 
     app.listen(process.env.EXPRESS_PORT, function () {
-        console.log(`[Dashboard]`.green, `Server running on port ${process.env.EXPRESS_PORT}`);
-        console.log(`[Dashboard]`.green, `Open your dashboard here :`, `http://localhost:${process.env.EXPRESS_PORT}`.grey )
+        console.log(`[Server]`.cyan, `Server running on port ${process.env.EXPRESS_PORT}`);
+        console.log(`[Server]`.cyan, 'Access dashboard :', `http://localhost:${process.env.EXPRESS_PORT}`.grey)
+        console.log(`[Dashboard]`.green, `Dashboard ready to use`)
     })
 }
 
