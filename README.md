@@ -35,7 +35,7 @@
 <h2 name="#requirements">Requirements :</h2>
 
 - Node.js ([Install](https://nodejs.org/en/)) :construction: App only tested on version **v12.10.0** ! 
-- NPM ([Install](https://www.npmjs.com/get-npm)) :construction: App only tested on version **6.14.11** !
+- NPM ([Install](https://www.npmjs.com/get-npm)) :construction: App only tested on version **v6.14.11** !
 
 <h2 name="#installation">Installation :</h2>
 
