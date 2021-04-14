@@ -46,8 +46,5 @@ app.get("/", function (req, res) {
     });
 });
 
-// clear console
-clear();
-
 // launch server
 launch;

@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo No test ;(",
     "start": "nodemon server.js -q --ext js,mjs,json --watch .env",
-    "build": "nexe server.js"
+    "build": "nexe server.js",
+    "dev": "nodemon server.js"
   },
   "author": "Thomas R",
   "license": "ISC",
