@@ -33,7 +33,7 @@
 
 - Auto reload configuration in execution.
 
-![image](https://user-images.githubusercontent.com/56170171/110240687-7067eb00-7f4d-11eb-8dba-46df29cb2bcb.png)
+![image](https://user-images.githubusercontent.com/56170171/114764071-ceb19600-9d63-11eb-8d73-b20645c2ad84.png)
 
 <h2 name="requirements">Requirements :</h2>
 
